@@ -33,7 +33,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
 <br />
@@ -46,3 +46,4 @@
 [twitter]: https://twitter.com/mahesh1264
 [instagram]: https://www.instagram.com/mahesh_1264/
 [linkedin]: https://www.linkedin.com/in/mahesh-chavan-939738135/
+[webdevplaylist]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevblogs.microsoft.com%2Fcommandline%2Fwindows-terminal-preview-v0-4-release%2F&psig=AOvVaw0lf7NaFuAzET9yKb9XmyGU&ust=1596639091209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDA3qHmgesCFQAAAAAdAAAAABAD
