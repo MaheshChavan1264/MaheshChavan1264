@@ -14,7 +14,9 @@
 [<img align="left" alt="silentCoder | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ---
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaheshChavan1264&show_icons=true&hide_border=true" />
 
 [FacePrep]: https://www.faceprep.in/prograd/full-stack-developer/?source=Home
