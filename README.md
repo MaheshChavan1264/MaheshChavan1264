@@ -33,8 +33,6 @@
 <br />
 <br />
 
----
-
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaheshChavan1264&show_icons=true&hide_border=true" />
 
 [FacePrep]: https://www.faceprep.in/prograd/full-stack-developer/?source=Home
