@@ -67,7 +67,7 @@
 
 [FacePrep]: https://www.faceprep.in/prograd/full-stack-developer/?source=Home
 [twitter]: https://twitter.com/mahesh1264
-[instagram]: https://www.instagram.com/mahesh_1264/
+[instagram]: https://www.instagram.com/silentcoder_/
 [linkedin]: https://www.linkedin.com/in/mahesh-chavan-939738135/
 [webdevplaylist]: a
 [jsplaylist]: a
