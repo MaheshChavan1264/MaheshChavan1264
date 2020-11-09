@@ -2,7 +2,7 @@
 
 ## I'm a Student, Learner, Developer, and silentCoder!
 - 🔭 I’m currently working on a [ProGrad's Full Stack Development][FacePrep]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Many Things.... 🤣
 - 👯 I’m looking to learn the new things which are required for the Full Stack Development
 - 🥅 2020 Goals: Try more and more projects in full stack development
 - ⚡ Fun fact: I love to eat Gulab-Jamun, to play CS:GO, Pubg.
