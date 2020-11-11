@@ -70,6 +70,8 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter-notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+![Mahesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MaheshChavan1264)
+
 
 [FacePrep]: https://www.faceprep.in/prograd/full-stack-developer/?source=Home
 [twitter]: https://twitter.com/mahesh1264
