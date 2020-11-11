@@ -70,12 +70,6 @@
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter-notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaheshChavan1264&repo=Tweets)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaheshChavan1264&repo=PhpProject_TripForm)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaheshChavan1264&repo=BlogApplication)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaheshChavan1264&repo=portfolio)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaheshChavan1264&repo=E-Mandi-Java-Project)
-
 [FacePrep]: https://www.faceprep.in/prograd/full-stack-developer/?source=Home
 [twitter]: https://twitter.com/mahesh1264
 [instagram]: https://www.instagram.com/silentcoder_/
