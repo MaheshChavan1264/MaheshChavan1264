@@ -69,7 +69,7 @@
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter-notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<br />
 [FacePrep]: https://www.faceprep.in/prograd/full-stack-developer/?source=Home
 [twitter]: https://twitter.com/mahesh1264
 [instagram]: https://www.instagram.com/silentcoder_/
