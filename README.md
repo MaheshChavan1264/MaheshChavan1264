@@ -61,8 +61,15 @@
 <img align="left" alt="Kali" width="26px" src="https://github.com/MaheshChavan1264/icons/blob/master/kali.png" />
 
 <br />
+<br />
+<br />
 
 ![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=MaheshChavan1264&show_icons=true&theme=synthwave)
+<br />
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter-notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [FacePrep]: https://www.faceprep.in/prograd/full-stack-developer/?source=Home
 [twitter]: https://twitter.com/mahesh1264
