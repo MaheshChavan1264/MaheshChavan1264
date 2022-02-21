@@ -11,8 +11,8 @@
 [Portfolio]
 
 ## Projects:
-[ToDo App][todo]
-[Birthday Reminder][birthday]
+- [ToDo App][todo]
+- [Birthday Reminder][birthday]
 
 ### Connect with me:
 
