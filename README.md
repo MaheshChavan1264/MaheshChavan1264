@@ -12,7 +12,7 @@
 
 ## Projects:
 - [ToDo App][todo]
-- [Birthday Reminder][birthday]
+- [Birthday Reminder][<img align="center" alt="silentCoder | Birthday Reminder" width="22px" src="https://birthday-reminder-reactjs-project.vercel.app/" />][birthday]
 
 ### Connect with me:
 
