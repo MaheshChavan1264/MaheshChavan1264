@@ -7,6 +7,13 @@
 - 🥅 2020 Goals: Try more and more projects in full stack development
 - ⚡ Fun fact: I love to eat Gulab-Jamun, to play CS:GO, Pubg.
 
+# Portfolio
+[Portfolio][portfolio]!
+
+## Projects:
+[ToDo App][todo]!
+[Birthday Reminder][birthday]!
+
 ### Connect with me:
 
 [<img align="left" alt="silentCoder | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -76,3 +83,6 @@
 [twitter]: https://twitter.com/mahesh1264
 [instagram]: https://www.instagram.com/silentcoder_/
 [linkedin]: https://www.linkedin.com/in/mahesh-chavan-939738135/
+[birthday]: https://vercel.com/maheshchavan1264/birthday-reminder-reactjs-project/AzJvr5RTDViwQ6iJsktesM33ZUXq
+[portfolio]: 
+[todo]: https://vercel.com/maheshchavan1264/todo-app-reactjs-redux/8Jm8x9qsePyvMBRjvpngtffy98tX
