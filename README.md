@@ -85,6 +85,6 @@
 [instagram]: https://www.instagram.com/silentcoder_/
 [linkedin]: https://www.linkedin.com/in/mahesh-chavan-939738135/
 [birthday]: https://birthday-reminder-reactjs-project.vercel.app/
-[portfolio]: https://mahesh-chavan1264.vercel.app/
+[portfolio]: https://portfolio-gold-seven.vercel.app/
 [todo]: https://todo-app-reactjs-redux.vercel.app/
 [color]: https://color-generator-reactjs.vercel.app/
